@@ -52,5 +52,6 @@ surface resolution 5.5
 set bgColor white
 graphics silhouettes true
 preset cylinders # tubes for alpha-helices
+graphics selection color black width 1
 ```
 
