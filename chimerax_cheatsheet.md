@@ -36,6 +36,9 @@ distance #1/B:375@Ca #2/A:45@Ca
 
 # Select charged residues
 select #2/A:arg,his,lys,asp,glu
+
+# Label residues
+label sel height 1 size 50 font Arial offset 0,0,0
 ```
 
 ### Parameters
