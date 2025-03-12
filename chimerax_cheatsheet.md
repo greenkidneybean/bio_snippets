@@ -53,5 +53,14 @@ set bgColor white
 graphics silhouettes true
 preset cylinders # tubes for alpha-helices
 graphics selection color black width 1
+
+color_dict = {
+    'eIF2α':'gray',
+    'VACV':'#786BAC',
+    'VARV':'#E86562',
+    'TPV':'#F4B681',
+    'MYXV':'#6BB3FC',
+    'RCV':'#A8D39B'
+}
 ```
 
