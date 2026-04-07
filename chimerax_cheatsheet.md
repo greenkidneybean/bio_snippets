@@ -21,6 +21,9 @@ save ~/Desktop/img/pkr_k3.png width 900 height 900 transparentBackground true su
 # select zone
 select zone #1/B 5 #1/A residues true
 
+# list residues in zone
+info residues sel
+
 # Show the interface
 interfaces select #1/B contacting #2/A bothSides true
 name sel contacts
