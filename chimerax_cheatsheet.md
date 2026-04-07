@@ -18,6 +18,9 @@ save ~/Desktop/img/pkr_k3.png width 900 height 900 transparentBackground true su
 
 # save movie
 
+# select zone
+select zone #1/B 5 #1/A residues true
+
 # Show the interface
 interfaces select #1/B contacting #2/A bothSides true
 name sel contacts
