@@ -37,6 +37,9 @@ color bfactor #3 palette alphafold
 # Renumber residues for AlphaFold predictions
 renumber #1/A:1-302 start 250
 
+# change thickness of silhouette
+set silhouetteWidth 1
+
 # Measure distance between atoms
 distance #1/B:375@Ca #2/A:45@Ca
 
